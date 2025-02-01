@@ -1,0 +1,4 @@
+# See https://help.github.com/en/articles/ignoring-files#create-a-gitignore-file
+*.env
+node_modules/
+.vercel
